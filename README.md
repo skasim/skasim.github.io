@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello, World! Thanks for visiting my protfolio!
+An overview of skills and interesting projects.
 
 
 
